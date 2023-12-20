@@ -16,8 +16,8 @@ print the output
 
 ## PROGRAM:
 ```
-Developed by: TAMILARASAN K S.
-Register Number:23000080
+Developed by: Thajesh k
+Register Number:23004042
 import pandas as pd
 df = pd.read_csv("nba.csv")
 print(df.head(10))
